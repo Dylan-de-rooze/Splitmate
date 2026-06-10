@@ -1,0 +1,2 @@
+# Splitmate
+free alternative splitwise
